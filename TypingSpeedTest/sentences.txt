@@ -1,0 +1,9 @@
+Beautiful Soup is a Python library for pulling data out of HTML and XML files.
+HTML 4 defines a few attributes that can have multiple values.
+HTML 5 removes a couple of them, but defines a few more.
+Python is an easy to learn, powerful programming language.
+Newspapers are typically published daily or weekly.
+Newspapers often refine distribution of ads and news through zoning and editioning.
+At a glance the girl dressed in green looked to be 15 or 16 years of age.
+A novel is a long, fictional narrative which describes intimate human experiences.
+A chapbook is an early type of popular literature printed in early modern Europe.
